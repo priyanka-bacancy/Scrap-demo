@@ -1,0 +1,23 @@
+{
+  "name": "scrap-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka-bacancy/scrap-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanka-bacancy/scrap-demo/issues"
+  },
+  "homepage": "https://github.com/priyanka-bacancy/scrap-demo#readme"
+}
