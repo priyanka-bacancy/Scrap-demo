@@ -25,7 +25,6 @@ async function scrapeInfiniteScrollItems(
       items = await page.evaluate(extractItems);
 
       var jobDetailObj = await items.map(i => {
-        console.log("I",i)
         let jobTitle = i.split(/\r\n|\r|\n/)[0].trim();  //Job Title
         let jobTitleUrl = jobTitle.replace(/[ ,()/&]/g, '-')
 

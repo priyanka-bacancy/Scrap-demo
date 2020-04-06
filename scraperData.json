@@ -1,1 +1,52 @@
-{}
+[
+  [
+    {
+      "jobTitle": "Cost Analyst",
+      "companyDetail": " ",
+      "responsibilities": [
+        "Under general direction, solves moderately complex financial and operational problems, takes a new perspective on existing solutions and works independently to address a range of standard and non-standard situations.",
+        "Prepares financial and business-related analyses and research in such areas as cost accounting and management, product costing, metric development, financial accounting, internal controls and capital project justifications.",
+        "Prepares daily manufacturing cost report, analyzes cost drivers, updates plant daily management board and actively participates in daily management meetings.",
+        "Works closely with plant manager, department managers and other team members to develop appropriate cost management strategies while identifying and reducing non value-added activity and cost.",
+        "Develops monthly forecasts and fiscal year budgets for manufacturing. Helps develop responsible departments operating budget strategies and process while validating data and performing reasonability checks.",
+        "Manages development and updates of standard manufacturing costs and related performance data.",
+        "Participates in the month-end closing process by preparing journal entries, financial reporting and account reconciliation for assigned accounts.",
+        "Practices Carpenter Operating Model principles by completing appropriate training, certification and demonstrating associated behaviors on a regular basis.",
+        "Performs other tasks and projects as needed."
+      ]
+    }
+  ],
+  [
+    {
+      "jobTitle": "Senior Cost Analyst",
+      "companyDetail": "Carpenter Powder Products (CPP), a division of Carpenter Technology Corporation, is one of the world’s largest suppliers of spherical gas atomized powders that are produced through air, vacuum or pressurized melting in a full range of powder distributions.  CPP’s advanced powders have been used in a variety of coatings and components in aircraft engines, chemical equipment, medical devices, industrial gas turbines and food handling components, among other demanding applications.",
+      "responsibilities": [
+        "Responsible for development and maintenance of all cost-related reporting. ",
+        "Perform monthly reconciliation and updating of standard costs to actual costs",
+        "Provide daily and monthly reports and analysis on production orders, purchase prices, capital investments, and inventory variances ",
+        "Manage addition of new products into SAP and ensure proper Standard Cost calculation and data integration. ",
+        "Create / update plant dashboard, including labor variances, plant activity, quality, material variances, absorption and expense indicators ",
+        "Review, analyze and ensure accuracy of standard costs, BOMs, routings, overhead calculations, labor, etc. and make recommendations to increase profitability",
+        "Build required variance reports to present to executive, operations and plant management teams.",
+        "Daily analysis of production orders to ensure accurate transaction flow in SAP ",
+        "Capital investment projects control, ensuring approval process is correct, and monthly reporting of expenditures and commitments is accurate",
+        "Detect cost drivers and suggest costing improvements",
+        "Lead annual standard cost roll, including setting of standard raw material, labor and overhead rates",
+        "Create departmental expense reporting and forecast / budget preparation",
+        "Actively participate in the monthly forecasting and annual budgeting processes by providing updated cost information across different product lines and preparing the COGS forecast / budget",
+        "Monthly reconciliation and reporting of plant activity, production order variances, scrap sales, and material ledger",
+        "Perform analysis on manufacturing efficiencies and profitability by cost centers",
+        "Manage daily cycle count program and inventory adjustments",
+        "Lead fixed assets physical inventory control and coordinate annual physical inventory control, including interface with external auditors ",
+        "Support Controller and plant management in costing calculations and implementing internal controls.",
+        "Perform other duties and work on additional projects as assigned."
+      ]
+    }
+  ],
+  [
+    {
+      "jobTitle": "Intern - Procurement",
+      "companyDetail": "PROCUREMENT INTERN "
+    }
+  ]
+]
