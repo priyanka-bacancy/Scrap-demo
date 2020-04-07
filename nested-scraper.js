@@ -32,12 +32,16 @@ async function scrapeInfiniteScrollItems(
             jobDetail.jobTitle = jobElement.querySelector('div.GWTCKEditor-Disabled').innerText;
             // let reqNum = jobElement.querySelectorAll('div.WO3O > div').innerText;
             jobDetail.companyDetail = jobElement.querySelector('div.GWTCKEditor-Disabled > p ').innerText;
-
+            
             if (jobElement.querySelector('div.GWTCKEditor-Disabled > ul')) {
               let a = jobElement.querySelector('div.GWTCKEditor-Disabled > ul').innerText;
               let b = a.split("\n")
               jobDetail.responsibilities = b
             }
+            jobDetail.aboutUs = jobElement.querySelector('div.WMLO').innerText;
+            // if(jobElement.querySelector('div.WOJO > h2').innerText === "The page you are looking for doesn't exist."){
+            //  jobDetail.error = jobElement.querySelector('div.WOJO > h2').innerText
+            // }
           }
           catch (exception) {
           }
